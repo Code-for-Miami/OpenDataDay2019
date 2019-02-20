@@ -1,5 +1,5 @@
 # Open Data Day 2019
-Code For Miami's Open Data Day 2018 Projects
+Code For Miami's Open Data Day 2019 Projects
 
 ## March 3 @ Converge Miami
 
@@ -19,7 +19,7 @@ If you need help or have some specific questions, email Code for Miami team [Jul
 
 ### :book: Guides
 
-* [Getting Started with Open Data Day 2018](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
+* [Getting Started with Open Data Day 2019](https://docs.google.com/document/d/1GnHgqcp_uCoGVXs1nHjqZ3WbMSLqb5lEBmZ9LbDzMNU/edit?usp=sharing)
 
 * [Hack Projects Guide](https://github.com/Code-for-Miami/OpenDataDay2018/blob/master/guides/Hack.md)
 
