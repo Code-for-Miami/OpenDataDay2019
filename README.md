@@ -1,7 +1,7 @@
 # Open Data Day 2019
 Code For Miami's Open Data Day 2019 Projects
 
-## March 3 @ Converge Miami
+## March 2 @ CIC Miami
 
 - [:rocket: Register as a Participant](https://www.eventbrite.com/e/international-open-data-day-2019-tickets-56708370262?aff=ebdssbdestsearch)
 - [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2019/issues)
@@ -47,21 +47,19 @@ If you need help or have some specific questions, email Code for Miami team [Jul
 
 **08:45**AM — Registration & Breakfast 
 
-**09:30**AM — Welcome, Civic Tech & Open Data in Action
-Danielle Ungermann, Code for Miami & other speakers
+**09:30**AM — Welcome, Civic Tech & Open Data in Action, Code for Miami & Leigh-Ann Buchanan, Venture Cafe, Justice Hack, PermiTech Challenge
 
-**10:30AM-12:45**PM — Morning Work Session
+**10:30AM-12:00**PM — Morning Work Session
 
-**10:30AM-12:45**PM — Data Census: Help us map out which data is available (research-based)
+**10:30AM-12:00**PM — Data Census: Help us map out which data is available (research-based)
 
-**12:45-1:30PM** — LUNCH
+**12:00-1:00PM** — LUNCH
 
-**01:30-4:30PM** — Afternoon work session
+**01:00-2:00PM** — Visualizing Data with Power BI, a presentation by Microsoft
 
-**04:30** — Presentations
-Julie Kramer, Code for Miami
+**02:00-4:30PM** — Afternoon work session
 
-
+**04:30** — Group and Individual Presentations
 
 ## Presentation Information
 
