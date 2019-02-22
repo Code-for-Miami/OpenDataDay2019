@@ -53,7 +53,7 @@ If you need help or have some specific questions, email Code for Miami team [Jul
 
 **10:30AM-12:00**PM — Data Census: Help us map out which data is available (research-based)
 
-**12:00-1:00PM** — LUNCH
+**12:00-1:00PM** — Lunch
 
 **01:00-2:00PM** — Visualizing Data with Power BI, a presentation by Microsoft
 
