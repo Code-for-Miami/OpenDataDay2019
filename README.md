@@ -10,7 +10,7 @@ Help us become a more collaborative city through access. Work on different proje
 - [:bulb: Browse and Discuss Projects](https://github.com/Code-for-Miami/OpenDataDay2019/issues)
 - [:star2: Propose a Project](https://github.com/Code-for-Miami/OpenDataDay2019/issues/new)
 
-If you need help or have some specific questions, email the [Code for Miami team] (mailto:codeformiami@gmail.com). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday2019`.
+If you need help or have some specific questions, email the [Code for Miami team](mailto:codeformiami@gmail.com). You can also [invite yourself](http://cfm-invite.herokuapp.com) to the [Code for Miami Slack group](http://codeformiami.slack.com)! We will be on channel `#opendataday2019`.
 
 **Who Should Come**
 Anyone and everyone. We'll need help with research, wireframes, designing and developing solutions.
