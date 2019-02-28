@@ -20,11 +20,11 @@ Please bring a laptop or a device with WIFI capability for you to work with.
 
 ### Data Visualization Workshop
 
-**Tools
+**Tools**
 
 * [PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_w6bTnkTf&lnkd=Bing_PowerBI_%5BBrand%5D&msclkid=52dae773ce381c37c4ccbb0be1257523)
 
-**Datasets
+**Datasets**
 
 * [311 Flood Complaints](https://opendata.miamidade.gov/311/311-Service-Requests-Miami-Dade-County/dj6j-qg5t/data) - filter on Issue type - 311 ACTIVATION FLOODING COMPLAINTS
  
