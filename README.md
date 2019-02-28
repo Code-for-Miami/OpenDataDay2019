@@ -18,7 +18,7 @@ Anyone and everyone. We'll need help with research, wireframes, designing and de
 **What's Required**
 Please bring a laptop or a device with WIFI capability for you to work with.
 
-### Data Visualization Workshop
+## Data Visualization Workshop
 
 **Tools**
 
@@ -32,7 +32,7 @@ Please bring a laptop or a device with WIFI capability for you to work with.
 
 * [Environmental Permits](https://opendata.miamidade.gov/Environment/Environmental-Permits/6r7z-v6nm) 
 
-### :wrench: Tools
+## :wrench: Data Tools
 * [Datazar](https://www.datazar.com)
 
 * [Kumu](http://kumu.io)
