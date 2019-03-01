@@ -108,7 +108,7 @@ Form a group or work on your own to create a visualization comparing data, proto
 ## Presentation Information
 
 - Length: 5 mins
-- [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
+- [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1EW7WDqSrHC_qJcRX4hIsyAVSGqBU-DZxg7kBy3LSLR4/edit?usp=sharing)
 
 ## Wondering how to propose or discuss your project ideas?
 
