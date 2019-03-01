@@ -21,7 +21,7 @@ Please bring a laptop or a device with WIFI capability for you to work with.
 
 ## :book: Guide
 
-* [Getting Started with Open Data Day 2019](https://docs.google.com/document/d/1hpdiTxzxp6JQAtc1ZGoGz_OwuIBU5vQ2JmfzGbVqG74/edit?usp=sharing)
+* [Getting Started with Open Data Day 2019 & Project Info](https://docs.google.com/document/d/1hpdiTxzxp6JQAtc1ZGoGz_OwuIBU5vQ2JmfzGbVqG74/edit?usp=sharing)
 
 
 ## :wrench: Data Tools
