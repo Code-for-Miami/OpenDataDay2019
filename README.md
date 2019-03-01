@@ -19,9 +19,11 @@ Anyone and everyone. We'll need help with research, wireframes, designing and de
 Please bring a laptop or a device with WIFI capability for you to work with.
 
 
-## :book: Guide
+## :book: Guide & Project Info
 
 * [Getting Started with Open Data Day 2019 & Project Info](https://docs.google.com/document/d/1hpdiTxzxp6JQAtc1ZGoGz_OwuIBU5vQ2JmfzGbVqG74/edit?usp=sharing)
+
+* [Digital Census Working Doc](https://docs.google.com/document/d/1DAx-GRlxPcfKp45IDxS3qlLXqfu3_-1LUkg-YoYVb0Y/edit?usp=sharing)
 
 
 ## :wrench: Data Tools
