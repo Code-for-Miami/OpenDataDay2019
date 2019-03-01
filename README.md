@@ -18,19 +18,11 @@ Anyone and everyone. We'll need help with research, wireframes, designing and de
 **What's Required**
 Please bring a laptop or a device with WIFI capability for you to work with.
 
-## Data Visualization Workshop
 
-**Tools**
+## :book: Guide
 
-* [PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_w6bTnkTf&lnkd=Bing_PowerBI_%5BBrand%5D&msclkid=52dae773ce381c37c4ccbb0be1257523)
+* [Getting Started with Open Data Day 2019](https://docs.google.com/document/d/1hpdiTxzxp6JQAtc1ZGoGz_OwuIBU5vQ2JmfzGbVqG74/edit?usp=sharing)
 
-**Datasets**
-
-* [311 Flood Complaints](https://opendata.miamidade.gov/311/311-Service-Requests-Miami-Dade-County/dj6j-qg5t/data) - filter on Issue type - 311 ACTIVATION FLOODING COMPLAINTS
- 
-* [Environmental Contaminated Sites](https://opendata.miamidade.gov/Environment/Contaminated-Sites/jcvh-tmn5) 
-
-* [Environmental Permits](https://opendata.miamidade.gov/Environment/Environmental-Permits/6r7z-v6nm) 
 
 ## :wrench: Data Tools
 * [Datazar](https://www.datazar.com)
@@ -42,6 +34,21 @@ Please bring a laptop or a device with WIFI capability for you to work with.
 * [OpenStreetMap](https://www.openstreetmap.org/#map=12/25.7824/-80.2295) 
 
 * [Invision App](https://www.invisionapp.com/) or [Sketch](https://www.sketchapp.com/)
+
+
+## Microsoft Data Visualization Workshop
+
+**Download**
+
+* [PowerBI](https://powerbi.microsoft.com/en-us/get-started/?&OCID=AID719832_SEM_w6bTnkTf&lnkd=Bing_PowerBI_%5BBrand%5D&msclkid=52dae773ce381c37c4ccbb0be1257523)
+
+**Datasets**
+
+* [311 Flood Complaints](https://opendata.miamidade.gov/311/311-Service-Requests-Miami-Dade-County/dj6j-qg5t/data) - filter on Issue type - 311 ACTIVATION FLOODING COMPLAINTS
+ 
+* [Environmental Contaminated Sites](https://opendata.miamidade.gov/Environment/Contaminated-Sites/jcvh-tmn5) 
+
+* [Environmental Permits](https://opendata.miamidade.gov/Environment/Environmental-Permits/6r7z-v6nm) 
 
 
 ## Here are some important links and data we recommend you work with:
