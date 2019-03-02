@@ -50,6 +50,8 @@ Form a group or work on your own to create a visualization comparing data, proto
 
 
 ## :wrench: Data Tools
+* [ArcGIS](https://www.arcgis.com) - Use for GIS data
+
 * [Datazar](https://www.datazar.com)
 
 * [Kumu](http://kumu.io)
