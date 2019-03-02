@@ -88,6 +88,7 @@ Form a group or work on your own to create a visualization comparing data, proto
  * [Miami-Dade County Open Data Portal](https://opendata.miamidade.gov/)
  * [Miami Dade County GIS](http://gis-mdc.opendata.arcgis.com/)
  * [Catalog of Datasets in Florida](https://catalog.data.gov/dataset?tags=florida)
+ * [Citizen Suvery from City of Miami](
  
 **Criminal & Social Justice-Related**
  * [Florida Department of Law Enforcement Data & Statistics](http://www.fdle.state.fl.us/FSAC/Data-Statistics-(1).aspx)
