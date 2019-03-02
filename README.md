@@ -96,6 +96,15 @@ Form a group or work on your own to create a visualization comparing data, proto
  * [Crime Statistics - PDF](https://www8.miamidade.gov/global/police/crime-statistics.page)
  * [Measures for Justice](https://measuresforjustice.org/about/measures/)
  
+ **[JusticeHack](https://www.abajusticehack.org/)**
+ 
+* **E.I** is a SAAS platform and application that uses facial recognition software to provide first responders access to people’s emergency information to resolve their issue.
+
+* **BadgeWatch** is an application and portal that engenders accountability, transparency, insurance and fairness for law enforcement officers and the community by using real time feedback loops and a two-way officer evaluation system.
+
+* **Freeze** is a virtual gaming app that immerses users in the real-life, high-stakes scenarios that cops face every day. By living out the reality of crime fighting through the eyes of the cops, gamers begin to GET it. Freeze is subliminally building trust through experience, and with that knowledge and perspective, keeping people alive.
+
+ 
 **Climate-Related**
  * [Climate Change Toolkit](https://toolkit.climate.gov/)
  * [NOAA Data Tools](https://www.ncdc.noaa.gov/cdo-web/datatools)
