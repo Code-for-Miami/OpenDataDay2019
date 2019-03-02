@@ -18,6 +18,29 @@ Anyone and everyone. We'll need help with research, wireframes, designing and de
 **What's Required**
 Please bring a laptop or a device with WIFI capability for you to work with.
 
+## Schedule
+
+**09:00AM** — Registration & Breakfast 
+
+**09:30AM** — Welcome, Civic Tech & Open Data in Action
+Danielle, Code for Miami
+
+**9:45AM** - Crime & Data 
+Leigh-Ann Buchanan, Venture Cafe, Justice Hack, PermiTech Challenge
+
+**10:00AM** - City of Miami New Data Portal Announcement
+Mike Sarasti, Chief Technology Officer, City of Miami
+
+**10:15AM-12:30PM** — Morning Work Session
+Form a group or work on your own to create a visualization comparing data, prototype a solution through wireframes, or for the nontechnical or research-oriented, **Data Census**: help us map out which data is available.
+
+**12:30-1:30PM** — Lunch
+
+**01:00-2:00PM** — Visualizing Data with Power BI, a presentation by Microsoft
+
+**01:30-4:30PM** — Afternoon work session
+
+**04:30PM** — Group and Individual Presentations
 
 ## :book: Guide & Project Info
 
@@ -83,29 +106,6 @@ Please bring a laptop or a device with WIFI capability for you to work with.
  * [Regional Climate Action Plan](http://www.southeastfloridaclimatecompact.org//wp-content/uploads/2014/09/regional-climate-action-plan-final-ada-compliant.pdf)
  * [Compact Unified Sea Level Rise Projection](http://www.southeastfloridaclimatecompact.org/wp-content/uploads/2015/10/2015-Compact-Unified-Sea-Level-Rise-Projection.pdf)
  * [Graphs and maps of observed and modeled data for Miami-Dade County](https://toolkit.climate.gov/climate-explorer2/location.php?county=Miami-Dade+County&city=Miami,%20FL&fips=12086&lat=25.7616798&lon=-80.19179020000001)
-
-
-
-## Schedule
-
-**09:00AM** — Registration & Breakfast 
-
-**09:30AM** — Welcome, Civic Tech & Open Data in Action
-Danielle, Code for Miami
-
-**9:45AM** - Crime & Data 
-Leigh-Ann Buchanan, Venture Cafe, Justice Hack, PermiTech Challenge
-
-**10:15AM-12:30PM** — Morning Work Session
-Form a group or work on your own to create a visualization comparing data, prototype a solution through wireframes, or for the nontechnical or research-oriented, **Data Census**: help us map out which data is available.
-
-**12:30-1:30PM** — Lunch
-
-**01:00-2:00PM** — Visualizing Data with Power BI, a presentation by Microsoft
-
-**01:30-4:30PM** — Afternoon work session
-
-**04:30PM** — Group and Individual Presentations
 
 ## Presentation Information
 
