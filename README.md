@@ -25,10 +25,10 @@ Please bring a laptop or a device with WIFI capability for you to work with.
 **09:30AM** — Welcome, Civic Tech & Open Data in Action
 Danielle, Code for Miami
 
-**9:45AM** - Crime & Data 
+**9:45AM** - Crime & Data, 
 Leigh-Ann Buchanan, Venture Cafe, Justice Hack, PermiTech Challenge
 
-**10:00AM** - City of Miami New Data Portal Announcement
+**10:00AM** - City of Miami New Data Portal Announcement,
 Mike Sarasti, Chief Technology Officer, City of Miami
 
 **10:15AM-12:30PM** — Morning Work Session
